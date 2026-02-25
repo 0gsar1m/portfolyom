@@ -1,0 +1,124 @@
+{
+    "nav": {
+        "downloadCV": "CV İndir",
+        "github": "GitHub",
+        "linkedin": "LinkedIn"
+    },
+    "hero": {
+        "subtitle": "Backend & AI odaklı çalışan Yazılım Mühendisliği öğrencisi.",
+        "university": {
+            "name": "Fatih Sultan Mehmet Vakıf Üniversitesi",
+            "department": "Yazılım Mühendisliği",
+            "year": "4. Sınıf",
+            "graduation": "Mezuniyet: Haz–Tem 2026",
+            "gpa": "GPA: 2.36"
+        }
+    },
+    "sections": {
+        "experience": "Deneyim",
+        "projects": "Projeler",
+        "skills": "Teknolojik Yetenekler"
+    },
+    "skills": {
+        "programming": "Programlama Dilleri",
+        "ai": "AI / Data",
+        "tools": "Araçlar"
+    },
+    "experience": [
+        {
+            "company": "Sharz.Net",
+            "role": "Frontend Stajyer",
+            "date": "2024",
+            "summary": "Blog ve form sayfaları üzerinde temel arayüz geliştirmeleri.",
+            "bullets": [
+                "HTML/CSS/Bootstrap ile statik sayfaların hazırlanması",
+                "JavaScript ile form validasyonları ve küçük UI etkileşimleri",
+                "Git ile branch/merge süreçlerine katılım",
+                "Responsive tasarım düzenlemeleri"
+            ],
+            "tech": [
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "JavaScript",
+                "Git"
+            ]
+        },
+        {
+            "company": "Exedra HR",
+            "role": "Stajyer",
+            "date": "2025",
+            "summary": "AI destekli masaüstü mesajlaşma uygulaması geliştirme.",
+            "bullets": [
+                "FastAPI backend servisleri",
+                "OpenAI API ile yazım tamamlama sistemi",
+                "Docker + AWS EC2 deployment",
+                "MySQL veri yönetimi"
+            ],
+            "tech": [
+                "Python",
+                "FastAPI",
+                "OpenAI",
+                "Docker",
+                "AWS",
+                "MySQL"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Transparent Donation Platform",
+            "desc": "Bitirme projemiz kapsamında her bağış/harcamanın incelenebildiği şeffaf bağış platformu",
+            "tech": [
+                "Java",
+                "Spring Boot",
+                "Docker",
+                "Redis",
+                "PostgreSQL"
+            ],
+            "link": "https://github.com/MFurkanAkdag/Donation_Platform_Bitirme_Projesi",
+            "linkLabel": "Projeye git →"
+        },
+        {
+            "name": "Smart Chat",
+            "desc": "AI destekli yazım tamamlama ve mesajlaşma uygulaması",
+            "tech": [
+                "Python",
+                "FastAPI",
+                "OpenAI",
+                "Docker"
+            ],
+            "link": "https://github.com/0gsar1m/SmartChat",
+            "linkLabel": "Projeye git →"
+        },
+        {
+            "name": "Task Manager",
+            "desc": "Canlıda çalışan görev yönetim uygulaması",
+            "tech": [
+                "React",
+                "Spring Boot",
+                "Vercel"
+            ],
+            "link": "https://taskmanagerwebsite-frontend.vercel.app/",
+            "linkLabel": "Projeye git →"
+        },
+        {
+            "name": "AhiretMiOyunMu",
+            "desc": "Oyun oynarken namaz hatırlatıcı Windows uygulaması",
+            "tech": [
+                "Python"
+            ],
+            "link": "https://github.com/0gsar1m/AhiretMiOyunMu",
+            "linkLabel": "Projeye git →"
+        },
+        {
+            "name": "Form Filling Agent",
+            "desc": "Eğitimleri doldurup sertifika alabilen form doldurma ajanı",
+            "tech": [
+                "Python"
+            ],
+            "link": "https://github.com/0gsar1m/FormFillingAgent",
+            "linkLabel": "Projeye git →"
+        }
+    ]
+}

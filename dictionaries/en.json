@@ -1,0 +1,124 @@
+{
+    "nav": {
+        "downloadCV": "Download CV",
+        "github": "GitHub",
+        "linkedin": "LinkedIn"
+    },
+    "hero": {
+        "subtitle": "Software Engineering student focused on Backend & AI projects.",
+        "university": {
+            "name": "Fatih Sultan Mehmet Vakıf University",
+            "department": "Software Engineering",
+            "year": "4th Year",
+            "graduation": "Graduation: Jun–Jul 2026",
+            "gpa": "GPA: 2.36"
+        }
+    },
+    "sections": {
+        "experience": "Experience",
+        "projects": "Projects",
+        "skills": "Technical Skills"
+    },
+    "skills": {
+        "programming": "Programming Languages",
+        "ai": "AI / Data",
+        "tools": "Tools"
+    },
+    "experience": [
+        {
+            "company": "Sharz.Net",
+            "role": "Frontend Intern",
+            "date": "2024",
+            "summary": "Built basic UI components on blog and form pages.",
+            "bullets": [
+                "Developed static pages with HTML/CSS/Bootstrap",
+                "Implemented form validations and small UI interactions with JavaScript",
+                "Participated in branch/merge workflows with Git",
+                "Applied responsive design adjustments"
+            ],
+            "tech": [
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "JavaScript",
+                "Git"
+            ]
+        },
+        {
+            "company": "Exedra HR",
+            "role": "Intern",
+            "date": "2025",
+            "summary": "Developed an AI-powered desktop messaging application.",
+            "bullets": [
+                "FastAPI backend services",
+                "Writing completion system with OpenAI API",
+                "Docker + AWS EC2 deployment",
+                "MySQL data management"
+            ],
+            "tech": [
+                "Python",
+                "FastAPI",
+                "OpenAI",
+                "Docker",
+                "AWS",
+                "MySQL"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Transparent Donation Platform",
+            "desc": "A transparent donation platform where every donation and expenditure can be tracked, developed as a graduation project.",
+            "tech": [
+                "Java",
+                "Spring Boot",
+                "Docker",
+                "Redis",
+                "PostgreSQL"
+            ],
+            "link": "https://github.com/MFurkanAkdag/Donation_Platform_Bitirme_Projesi",
+            "linkLabel": "View project →"
+        },
+        {
+            "name": "Smart Chat",
+            "desc": "AI-powered writing completion and messaging application",
+            "tech": [
+                "Python",
+                "FastAPI",
+                "OpenAI",
+                "Docker"
+            ],
+            "link": "https://github.com/0gsar1m/SmartChat",
+            "linkLabel": "View project →"
+        },
+        {
+            "name": "Task Manager",
+            "desc": "Live task management application",
+            "tech": [
+                "React",
+                "Spring Boot",
+                "Vercel"
+            ],
+            "link": "https://taskmanagerwebsite-frontend.vercel.app/",
+            "linkLabel": "View project →"
+        },
+        {
+            "name": "AhiretMiOyunMu",
+            "desc": "Prayer reminder Windows app for while you are gaming",
+            "tech": [
+                "Python"
+            ],
+            "link": "https://github.com/0gsar1m/AhiretMiOyunMu",
+            "linkLabel": "View project →"
+        },
+        {
+            "name": "Form Filling Agent",
+            "desc": "An AI agent that fills out training forms and earns certificates",
+            "tech": [
+                "Python"
+            ],
+            "link": "https://github.com/0gsar1m/FormFillingAgent",
+            "linkLabel": "View project →"
+        }
+    ]
+}
