@@ -22,7 +22,7 @@ function getLocaleFromHeader(request: NextRequest): Locale {
         : "tr";
 }
 
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
     const { pathname } = request.nextUrl;
 
     // Zaten dil prefix'i var mı?
